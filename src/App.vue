@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/cruise.JPG">
+  <img alt="Vue logo" src="./assets/cruise.png">
   <HelloWorld msg="This is Cruise's AWS Website"/>
 </template>
 
