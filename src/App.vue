@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="This is Royal Cash and Carry Site"/>
+  <img alt="Vue logo" src="./assets/cruise.JPG">
+  <HelloWorld msg="This is Cruise's AWS Website"/>
 </template>
 
 <script>
